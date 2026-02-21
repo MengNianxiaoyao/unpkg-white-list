@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.255.0 (2026-02-21)
+
+* feat: add @mchp-mcc/pic-16bit and @mchp-mcc/pic-8bit to allowLargePackages (#488) ([abb032b](https://github.com/cnpm/unpkg-white-list/commit/abb032b)), closes [#488](https://github.com/cnpm/unpkg-white-list/issues/488)
+* feat: add hexo-theme-redefine-x to allowPackages (#493) ([91f953a](https://github.com/cnpm/unpkg-white-list/commit/91f953a)), closes [#493](https://github.com/cnpm/unpkg-white-list/issues/493)
+
 ## 1.254.0 (2026-02-16)
 
 * feat: add `@picocss/pico` to allowPackages (#492) ([1752fba](https://github.com/cnpm/unpkg-white-list/commit/1752fba)), closes [#492](https://github.com/cnpm/unpkg-white-list/issues/492)
