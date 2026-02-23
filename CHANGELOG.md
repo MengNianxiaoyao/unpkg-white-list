@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.256.0 (2026-02-23)
+
+* feat: add vibe-kanban to allowLargePackages (#495) ([9c7a7c6](https://github.com/cnpm/unpkg-white-list/commit/9c7a7c6)), closes [#495](https://github.com/cnpm/unpkg-white-list/issues/495)
+
 ## 1.255.0 (2026-02-21)
 
 * feat: add @mchp-mcc/pic-16bit and @mchp-mcc/pic-8bit to allowLargePackages (#488) ([abb032b](https://github.com/cnpm/unpkg-white-list/commit/abb032b)), closes [#488](https://github.com/cnpm/unpkg-white-list/issues/488)
