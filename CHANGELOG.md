@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.257.0 (2026-02-25)
+
+* feat: Add @cap.js to allowScopes (#496) ([d462206](https://github.com/cnpm/unpkg-white-list/commit/d462206)), closes [#496](https://github.com/cnpm/unpkg-white-list/issues/496)
+
 ## 1.256.0 (2026-02-23)
 
 * feat: add vibe-kanban to allowLargePackages (#495) ([9c7a7c6](https://github.com/cnpm/unpkg-white-list/commit/9c7a7c6)), closes [#495](https://github.com/cnpm/unpkg-white-list/issues/495)
