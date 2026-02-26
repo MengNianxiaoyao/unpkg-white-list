@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.258.0 (2026-02-26)
+
+* feat: add cline to allowLargePackages (#497) ([06eefda](https://github.com/cnpm/unpkg-white-list/commit/06eefda)), closes [#497](https://github.com/cnpm/unpkg-white-list/issues/497)
+
 ## 1.257.0 (2026-02-25)
 
 * feat: Add @cap.js to allowScopes (#496) ([d462206](https://github.com/cnpm/unpkg-white-list/commit/d462206)), closes [#496](https://github.com/cnpm/unpkg-white-list/issues/496)
