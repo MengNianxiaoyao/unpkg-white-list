@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.260.0 (2026-03-02)
+
+* feat: add `minecraft-data` package (#505) ([d389f45](https://github.com/cnpm/unpkg-white-list/commit/d389f45)), closes [#505](https://github.com/cnpm/unpkg-white-list/issues/505)
+
 ## 1.259.0 (2026-02-28)
 
 * feat: add node-red-node-rdk-tools to allowLargePackages (#504) ([41e76ca](https://github.com/cnpm/unpkg-white-list/commit/41e76ca)), closes [#504](https://github.com/cnpm/unpkg-white-list/issues/504)
