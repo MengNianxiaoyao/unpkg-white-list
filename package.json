@@ -19038,6 +19038,9 @@
     "makecoder": {
       "version": "*"
     },
+    "minecraft-data": {
+      "version": "*"
+    },
     "ms-vue-elet": {
       "version": "*"
     },
