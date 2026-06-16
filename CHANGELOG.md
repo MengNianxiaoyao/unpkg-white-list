@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.320.0 (2026-06-16)
+
+* feat: add vibecoding-installer to allowLargePackages (#600) ([029c360](https://github.com/cnpm/unpkg-white-list/commit/029c360)), closes [#600](https://github.com/cnpm/unpkg-white-list/issues/600)
+
 ## 1.319.0 (2026-06-09)
 
 * feat: add makecoder-bin-win-x64 to allowLargePackages (#598) ([c8879ab](https://github.com/cnpm/unpkg-white-list/commit/c8879ab)), closes [#598](https://github.com/cnpm/unpkg-white-list/issues/598)
