@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.321.0 (2026-06-29)
+
+* feat: add @mcp-b/webmcp-local-relay to allowPackages (#601) ([997c6d0](https://github.com/cnpm/unpkg-white-list/commit/997c6d0)), closes [#601](https://github.com/cnpm/unpkg-white-list/issues/601)
+
 ## 1.320.0 (2026-06-16)
 
 * feat: add vibecoding-installer to allowLargePackages (#600) ([029c360](https://github.com/cnpm/unpkg-white-list/commit/029c360)), closes [#600](https://github.com/cnpm/unpkg-white-list/issues/600)
