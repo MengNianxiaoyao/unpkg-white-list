@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.323.0 (2026-07-02)
+
+* feat: add `@file-viewer` to allowLargeScopes (#603) ([17b2f5c](https://github.com/cnpm/unpkg-white-list/commit/17b2f5c)), closes [#603](https://github.com/cnpm/unpkg-white-list/issues/603) [#602](https://github.com/cnpm/unpkg-white-list/issues/602)
+
 ## 1.322.0 (2026-07-02)
 
 * feat: add `@file-viewer` to allowScopes (#602) ([53ee741](https://github.com/cnpm/unpkg-white-list/commit/53ee741)), closes [#602](https://github.com/cnpm/unpkg-white-list/issues/602)
