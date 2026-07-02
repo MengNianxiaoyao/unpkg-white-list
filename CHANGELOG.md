@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.322.0 (2026-07-02)
+
+* feat: add `@file-viewer` to allowScopes (#602) ([53ee741](https://github.com/cnpm/unpkg-white-list/commit/53ee741)), closes [#602](https://github.com/cnpm/unpkg-white-list/issues/602)
+
 ## 1.321.0 (2026-06-29)
 
 * feat: add @mcp-b/webmcp-local-relay to allowPackages (#601) ([997c6d0](https://github.com/cnpm/unpkg-white-list/commit/997c6d0)), closes [#601](https://github.com/cnpm/unpkg-white-list/issues/601)
