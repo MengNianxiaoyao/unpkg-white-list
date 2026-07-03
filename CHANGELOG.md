@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.324.0 (2026-07-03)
+
+* feat: add `@qwen-code` to allowLargeScopes (#607) ([f60ab1a](https://github.com/cnpm/unpkg-white-list/commit/f60ab1a)), closes [#607](https://github.com/cnpm/unpkg-white-list/issues/607)
+* chore: add hermes-web-ui to allowLargePackages (#604) ([63ba83c](https://github.com/cnpm/unpkg-white-list/commit/63ba83c)), closes [#604](https://github.com/cnpm/unpkg-white-list/issues/604)
+
 ## 1.323.0 (2026-07-02)
 
 * feat: add `@file-viewer` to allowLargeScopes (#603) ([17b2f5c](https://github.com/cnpm/unpkg-white-list/commit/17b2f5c)), closes [#603](https://github.com/cnpm/unpkg-white-list/issues/603) [#602](https://github.com/cnpm/unpkg-white-list/issues/602)
