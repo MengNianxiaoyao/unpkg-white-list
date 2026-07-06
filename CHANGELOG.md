@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.325.0 (2026-07-06)
+
+* feat: add `@volcengine` to allowLargeScopes (#608) ([2d4b751](https://github.com/cnpm/unpkg-white-list/commit/2d4b751)), closes [#608](https://github.com/cnpm/unpkg-white-list/issues/608)
+
 ## 1.324.0 (2026-07-03)
 
 * feat: add `@qwen-code` to allowLargeScopes (#607) ([f60ab1a](https://github.com/cnpm/unpkg-white-list/commit/f60ab1a)), closes [#607](https://github.com/cnpm/unpkg-white-list/issues/607)
