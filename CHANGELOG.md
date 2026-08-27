@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.335.0 (2026-08-27)
+
+* feat: add shaka-player to allowLargePackages (#622) ([9178049](https://github.com/cnpm/unpkg-white-list/commit/9178049)), closes [#622](https://github.com/cnpm/unpkg-white-list/issues/622)
+
 ## 1.334.0 (2026-08-20)
 
 * feat: add mermaid to allowLargePackages (#619) ([3dd9989](https://github.com/cnpm/unpkg-white-list/commit/3dd9989)), closes [#619](https://github.com/cnpm/unpkg-white-list/issues/619)
