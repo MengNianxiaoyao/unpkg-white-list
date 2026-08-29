@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.336.0 (2026-08-29)
+
+* feat: add tabby-windy-quick-commands to allowPackages (#623) ([22ef60e](https://github.com/cnpm/unpkg-white-list/commit/22ef60e)), closes [#623](https://github.com/cnpm/unpkg-white-list/issues/623)
+
 ## 1.335.0 (2026-08-27)
 
 * feat: add shaka-player to allowLargePackages (#622) ([9178049](https://github.com/cnpm/unpkg-white-list/commit/9178049)), closes [#622](https://github.com/cnpm/unpkg-white-list/issues/622)
