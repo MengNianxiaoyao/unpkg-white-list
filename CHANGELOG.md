@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.337.0 (2026-09-01)
+
+* feat: add `@swmansion/argent` to allowLargePackages (#624) ([5cc69f0](https://github.com/cnpm/unpkg-white-list/commit/5cc69f0)), closes [#624](https://github.com/cnpm/unpkg-white-list/issues/624) [kacperkapusciak/goldie#2](https://github.com/kacperkapusciak/goldie/issues/2) [software-mansion/argent#980](https://github.com/software-mansion/argent/issues/980)
+
 ## 1.336.0 (2026-08-29)
 
 * feat: add tabby-windy-quick-commands to allowPackages (#623) ([22ef60e](https://github.com/cnpm/unpkg-white-list/commit/22ef60e)), closes [#623](https://github.com/cnpm/unpkg-white-list/issues/623)
